@@ -48,7 +48,7 @@ function App() {
                    type="checkbox"
                    needsAnswer
                    values={['option1','option2','option3', 'option4']}
-                   validateFunc={(val) => (val.includes('.exercise4 input:not(:first-of-type)') || val.includes('.exercise4 input:nth-of-type(n+2)')) && isRuleApplied(val)}>
+                   validateFunc={(val) => (val.includes('.exercise3 input:not(:first-of-type)') || val.includes('.exercise3 input:nth-of-type(n+2)')) && isRuleApplied(val)}>
         </Validator>
       </div>
 
@@ -76,7 +76,7 @@ function App() {
 
       <div className="exercise6">
         <h3> Exercise 6</h3>
-        <iframe title="a wild iframe appears" src="/iframexample.html" height={200} width={500}/>  
+        <iframe title="a wild iframe appears" src="iframexample.html" height={200} width={500}/>  
       </div>
     </>
   );
