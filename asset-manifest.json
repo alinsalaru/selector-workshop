@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//alinsalaru.github.io/static/css/main.202f5587.chunk.css",
-    "main.js": "//alinsalaru.github.io/static/js/main.b30d58a7.chunk.js",
-    "runtime-main.js": "//alinsalaru.github.io/static/js/runtime-main.566fce9f.js",
-    "static/js/2.a9beae0a.chunk.js": "//alinsalaru.github.io/static/js/2.a9beae0a.chunk.js",
-    "index.html": "//alinsalaru.github.io/index.html",
-    "precache-manifest.77b9287b4278164450e77615dc6aeea5.js": "//alinsalaru.github.io/precache-manifest.77b9287b4278164450e77615dc6aeea5.js",
-    "service-worker.js": "//alinsalaru.github.io/service-worker.js",
-    "static/js/2.a9beae0a.chunk.js.LICENSE.txt": "//alinsalaru.github.io/static/js/2.a9beae0a.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.202f5587.chunk.css",
+    "main.js": "/static/js/main.4c95044b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.8232a255.js",
+    "static/js/2.a9beae0a.chunk.js": "/static/js/2.a9beae0a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.4247dd475c8f4af7ff635c1556fe78ac.js": "/precache-manifest.4247dd475c8f4af7ff635c1556fe78ac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.a9beae0a.chunk.js.LICENSE.txt": "/static/js/2.a9beae0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.566fce9f.js",
+    "static/js/runtime-main.8232a255.js",
     "static/js/2.a9beae0a.chunk.js",
     "static/css/main.202f5587.chunk.css",
-    "static/js/main.b30d58a7.chunk.js"
+    "static/js/main.4c95044b.chunk.js"
   ]
 }
